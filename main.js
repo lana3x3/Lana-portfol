@@ -275,29 +275,29 @@ const hackathons = [
     title: "DATA X App – NASA Space Apps",
     date: "October 2024",
     description: "Second place winning project that utilizes Earth Observation (EO) data to support smart decision-making aligned with sustainability goals.",
-    image: "files/datax-app.jpg",
-    file: "files/datax-app.pdf"
+    image: "datax-app.jpg",
+    file: "datax-app.pdf"
   },
   {
     title: "SpaceUp Application Hackathon – Data World App",
     date: "May 2025",
     description: "Developed an analytics platform using EO and IoT to monitor afforestation and support the Saudi Green Initiative through real-time insights.",
-    image: "files/spaceup.jpg",
-    file: "files/spaceup.pdf"
+    image: "spaceup.jpg",
+    file: "spaceup.pdf"
   },
   {
     title: "Google Hackathon – Distance in Education",
     date: "May 2024",
     description: "Presented a solution for transforming distance learning during the Covid-19 pandemic to ensure safety and continuity in education.",
-    image: "files/google-education.jpg",
-    file: "files/google-education.pdf"
+    image: "google-education.jpg",
+    file: "google-education.pdf"
   },
   {
     title: "DaVita – Anomaly Detection for Hemodialysis IoT Data",
     date: "May 2024",
     description: "Built a system to detect anomalies in IoT data from hemodialysis machines to improve patient safety and treatment accuracy.",
-    image: "files/davita-anomaly.jpg",
-    file: "files/davita-anomaly.pdf"
+    image: "davita-anomaly.jpg",
+    file: "davita-anomaly.pdf"
   }
 ];
 
