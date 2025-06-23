@@ -217,26 +217,26 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       title: "DATA X App – NASA Space Apps",
       description: "Second place winning project using Earth Observation data for sustainability.",
-      img: "files/datax-app.jpg",
-      pdf: "files/datax-app.pdf"
+      img: "datax-app.jpg",
+      pdf: "datax-app.pdf"
     },
     {
       title: "SpaceUp Application Hackathon – Data World App",
       description: "Developed an analytics platform using EO and IoT to monitor afforestation and support the Saudi Green Initiative.",
-      img: "files/spaceup.jpg",
-      pdf: "files/spaceup.pdf"
+      img: "spaceup.jpg",
+      pdf: "spaceup.pdf"
     },
     {
       title: "Google Hackathon – Distance in Education",
       description: "Presented a solution for transforming distance learning during the Covid-19 pandemic.",
-      img: "files/google-education.jpg",
-      pdf: "files/google-education.pdf"
+      img: "google-education.jpg",
+      pdf: "google-education.pdf"
     },
     {
       title: "DaVita – Anomaly Detection for Hemodialysis IoT Data",
       description: "Built a system to detect anomalies in IoT data from hemodialysis machines to improve patient safety.",
-      img: "files/davita-anomaly.jpg",
-      pdf: "files/davita-anomaly.pdf"
+      img: "davita-anomaly.jpg",
+      pdf: "davita-anomaly.pdf"
     }
   ];
 
