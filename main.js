@@ -332,3 +332,10 @@ nextBtn.addEventListener("click", () => {
 
 
 renderHackathon(currentIndex);
+
+<script>
+  function toggleMenu() {
+    const links = document.querySelector('.nav-links');
+    links.classList.toggle('show');
+  }
+</script>
